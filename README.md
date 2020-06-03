@@ -12,3 +12,6 @@
 
 - 路由：http://127.0.0.1:8000/admin
 - 认证：账号 admin，密码 admin
+
+## 参考
+-https://blog.p2hp.com/archives/7282  
