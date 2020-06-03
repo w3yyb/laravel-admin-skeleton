@@ -6,7 +6,7 @@
 - php artisan key:generate
 - php artisan migrate（执行前需要配置好数据库连接）
 - php artisan db:seed（执行前需要配置好数据库连接）
-- php serve（打开 http://127.0.0.1:8000 即可浏览）
+- php artisan serve（打开 http://127.0.0.1:8000 即可浏览）
 
 ## 查看
 
