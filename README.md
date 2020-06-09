@@ -1,6 +1,6 @@
 ## 安装
 
-要求
+要求PHP>=7.4  
 - git clone git@git.coding.net:dcc/laravel-scaffold-admin.git
 - composer install -vvv
 - cp .env.example .env
