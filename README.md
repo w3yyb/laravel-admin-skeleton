@@ -1,5 +1,6 @@
 ## 安装
 
+要求
 - git clone git@git.coding.net:dcc/laravel-scaffold-admin.git
 - composer install -vvv
 - cp .env.example .env
