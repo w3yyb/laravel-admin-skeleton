@@ -1,7 +1,7 @@
 ## 安装
 
 要求PHP>=7.4  
-- git clone git@git.coding.net:dcc/laravel-scaffold-admin.git
+- git clone https://github.com/w3yyb/laravel-admin-skeleton.git
 - composer install -vvv
 - cp .env.example .env
 - php artisan key:generate
